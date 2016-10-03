@@ -1,0 +1,12 @@
+{
+  "name": "@download13/image-search",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
